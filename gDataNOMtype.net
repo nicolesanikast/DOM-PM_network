@@ -1,0 +1,764 @@
+*Vertices 227 133
+1 "95" "square" ic "lightsalmon"
+2 "96" "square" ic "lightsalmon"
+3 "97" "square" ic "lightsalmon"
+4 "98" "square" ic "lightsalmon"
+5 "99" "square" ic "lightsalmon"
+6 "100" "square" ic "lightsalmon"
+7 "101" "square" ic "lightsalmon"
+8 "102" "square" ic "lightsalmon"
+9 "103" "square" ic "lightsalmon"
+10 "104" "square" ic "lightsalmon"
+11 "105" "square" ic "lightsalmon"
+12 "106" "square" ic "lightsalmon"
+13 "107" "square" ic "lightsalmon"
+14 "108" "square" ic "lightsalmon"
+15 "109" "square" ic "lightsalmon"
+16 "110" "square" ic "lightsalmon"
+17 "111" "square" ic "lightsalmon"
+18 "112" "square" ic "lightsalmon"
+19 "113" "square" ic "lightsalmon"
+20 "114" "square" ic "lightsalmon"
+21 "115" "square" ic "lightsalmon"
+22 "116" "square" ic "lightsalmon"
+23 "117" "square" ic "lightsalmon"
+24 "118" "square" ic "lightsalmon"
+25 "119" "square" ic "lightsalmon"
+26 "120" "square" ic "lightsalmon"
+27 "121" "square" ic "lightsalmon"
+28 "122" "square" ic "lightsalmon"
+29 "123" "square" ic "lightsalmon"
+30 "124" "square" ic "lightsalmon"
+31 "125" "square" ic "lightsalmon"
+32 "126" "square" ic "lightsalmon"
+33 "127" "square" ic "lightsalmon"
+34 "128" "square" ic "lightsalmon"
+35 "129" "square" ic "lightsalmon"
+36 "130" "square" ic "lightsalmon"
+37 "131" "square" ic "lightsalmon"
+38 "132" "square" ic "lightsalmon"
+39 "133" "square" ic "lightsalmon"
+40 "134" "square" ic "lightsalmon"
+41 "135" "square" ic "lightsalmon"
+42 "136" "square" ic "lightsalmon"
+43 "137" "square" ic "lightsalmon"
+44 "138" "square" ic "lightsalmon"
+45 "139" "square" ic "lightsalmon"
+46 "140" "square" ic "lightsalmon"
+47 "141" "square" ic "lightsalmon"
+48 "142" "square" ic "lightsalmon"
+49 "143" "square" ic "lightsalmon"
+50 "144" "square" ic "lightsalmon"
+51 "145" "square" ic "lightsalmon"
+52 "146" "square" ic "lightsalmon"
+53 "147" "square" ic "lightsalmon"
+54 "148" "square" ic "lightsalmon"
+55 "149" "square" ic "lightsalmon"
+56 "150" "square" ic "lightsalmon"
+57 "151" "square" ic "lightsalmon"
+58 "152" "square" ic "lightsalmon"
+59 "153" "square" ic "lightsalmon"
+60 "154" "square" ic "lightsalmon"
+61 "155" "square" ic "lightsalmon"
+62 "156" "square" ic "lightsalmon"
+63 "157" "square" ic "lightsalmon"
+64 "158" "square" ic "lightsalmon"
+65 "159" "square" ic "lightsalmon"
+66 "160" "square" ic "lightsalmon"
+67 "161" "square" ic "lightsalmon"
+68 "162" "square" ic "lightsalmon"
+69 "163" "square" ic "lightsalmon"
+70 "164" "square" ic "lightsalmon"
+71 "165" "square" ic "lightsalmon"
+72 "166" "square" ic "lightsalmon"
+73 "167" "square" ic "lightsalmon"
+74 "168" "square" ic "lightsalmon"
+75 "169" "square" ic "lightsalmon"
+76 "170" "square" ic "lightsalmon"
+77 "171" "square" ic "lightsalmon"
+78 "172" "square" ic "lightsalmon"
+79 "173" "square" ic "lightsalmon"
+80 "174" "square" ic "lightsalmon"
+81 "175" "square" ic "lightsalmon"
+82 "176" "square" ic "lightsalmon"
+83 "177" "square" ic "lightsalmon"
+84 "178" "square" ic "lightsalmon"
+85 "179" "square" ic "lightsalmon"
+86 "180" "square" ic "lightsalmon"
+87 "181" "square" ic "lightsalmon"
+88 "182" "square" ic "lightsalmon"
+89 "183" "square" ic "lightsalmon"
+90 "184" "square" ic "lightsalmon"
+91 "185" "square" ic "lightsalmon"
+92 "186" "square" ic "lightsalmon"
+93 "187" "square" ic "lightsalmon"
+94 "188" "square" ic "lightsalmon"
+95 "189" "square" ic "lightsalmon"
+96 "190" "square" ic "lightsalmon"
+97 "191" "square" ic "lightsalmon"
+98 "192" "square" ic "lightsalmon"
+99 "193" "square" ic "lightsalmon"
+100 "194" "square" ic "lightsalmon"
+101 "195" "square" ic "lightsalmon"
+102 "196" "square" ic "lightsalmon"
+103 "197" "square" ic "lightsalmon"
+104 "198" "square" ic "lightsalmon"
+105 "199" "square" ic "lightsalmon"
+106 "200" "square" ic "lightsalmon"
+107 "201" "square" ic "lightsalmon"
+108 "202" "square" ic "lightsalmon"
+109 "203" "square" ic "lightsalmon"
+110 "204" "square" ic "lightsalmon"
+111 "205" "square" ic "lightsalmon"
+112 "206" "square" ic "lightsalmon"
+113 "207" "square" ic "lightsalmon"
+114 "208" "square" ic "lightsalmon"
+115 "209" "square" ic "lightsalmon"
+116 "210" "square" ic "lightsalmon"
+117 "211" "square" ic "lightsalmon"
+118 "212" "square" ic "lightsalmon"
+119 "213" "square" ic "lightsalmon"
+120 "214" "square" ic "lightsalmon"
+121 "215" "square" ic "lightsalmon"
+122 "216" "square" ic "lightsalmon"
+123 "217" "square" ic "lightsalmon"
+124 "218" "square" ic "lightsalmon"
+125 "219" "square" ic "lightsalmon"
+126 "220" "square" ic "lightsalmon"
+127 "221" "square" ic "lightsalmon"
+128 "222" "square" ic "lightsalmon"
+129 "223" "square" ic "lightsalmon"
+130 "224" "square" ic "lightsalmon"
+131 "225" "square" ic "lightsalmon"
+132 "226" "square" ic "lightsalmon"
+133 "227" "square" ic "lightsalmon"
+134 "1" "circle" ic "light blue"
+135 "2" "circle" ic "light blue"
+136 "3" "circle" ic "light blue"
+137 "4" "circle" ic "light blue"
+138 "5" "circle" ic "light blue"
+139 "6" "circle" ic "light blue"
+140 "7" "circle" ic "light blue"
+141 "8" "circle" ic "light blue"
+142 "9" "circle" ic "light blue"
+143 "10" "circle" ic "light blue"
+144 "11" "circle" ic "light blue"
+145 "12" "circle" ic "light blue"
+146 "13" "circle" ic "light blue"
+147 "14" "circle" ic "light blue"
+148 "15" "circle" ic "light blue"
+149 "16" "circle" ic "light blue"
+150 "17" "circle" ic "light blue"
+151 "18" "circle" ic "light blue"
+152 "19" "circle" ic "light blue"
+153 "20" "circle" ic "light blue"
+154 "21" "circle" ic "light blue"
+155 "22" "circle" ic "light blue"
+156 "23" "circle" ic "light blue"
+157 "24" "circle" ic "light blue"
+158 "25" "circle" ic "light blue"
+159 "26" "circle" ic "light blue"
+160 "27" "circle" ic "light blue"
+161 "28" "circle" ic "light blue"
+162 "29" "circle" ic "light blue"
+163 "30" "circle" ic "light blue"
+164 "31" "circle" ic "light blue"
+165 "32" "circle" ic "light blue"
+166 "33" "circle" ic "light blue"
+167 "34" "circle" ic "light blue"
+168 "35" "circle" ic "light blue"
+169 "36" "circle" ic "light blue"
+170 "37" "circle" ic "light blue"
+171 "38" "circle" ic "light blue"
+172 "39" "circle" ic "light blue"
+173 "40" "circle" ic "light blue"
+174 "41" "circle" ic "light blue"
+175 "42" "circle" ic "light blue"
+176 "43" "circle" ic "light blue"
+177 "44" "circle" ic "light blue"
+178 "45" "circle" ic "light blue"
+179 "46" "circle" ic "light blue"
+180 "47" "circle" ic "light blue"
+181 "48" "circle" ic "light blue"
+182 "49" "circle" ic "light blue"
+183 "50" "circle" ic "light blue"
+184 "51" "circle" ic "light blue"
+185 "52" "circle" ic "light blue"
+186 "53" "circle" ic "light blue"
+187 "54" "circle" ic "light blue"
+188 "55" "circle" ic "light blue"
+189 "56" "circle" ic "light blue"
+190 "57" "circle" ic "light blue"
+191 "58" "circle" ic "light blue"
+192 "59" "circle" ic "light blue"
+193 "60" "circle" ic "light blue"
+194 "61" "circle" ic "light blue"
+195 "62" "circle" ic "light blue"
+196 "63" "circle" ic "light blue"
+197 "64" "circle" ic "light blue"
+198 "65" "circle" ic "light blue"
+199 "66" "circle" ic "light blue"
+200 "67" "circle" ic "light blue"
+201 "68" "circle" ic "light blue"
+202 "69" "circle" ic "light blue"
+203 "70" "circle" ic "light blue"
+204 "71" "circle" ic "light blue"
+205 "72" "circle" ic "light blue"
+206 "73" "circle" ic "light blue"
+207 "74" "circle" ic "light blue"
+208 "75" "circle" ic "light blue"
+209 "76" "circle" ic "light blue"
+210 "77" "circle" ic "light blue"
+211 "78" "circle" ic "light blue"
+212 "79" "circle" ic "light blue"
+213 "80" "circle" ic "light blue"
+214 "81" "circle" ic "light blue"
+215 "82" "circle" ic "light blue"
+216 "83" "circle" ic "light blue"
+217 "84" "circle" ic "light blue"
+218 "85" "circle" ic "light blue"
+219 "86" "circle" ic "light blue"
+220 "87" "circle" ic "light blue"
+221 "88" "circle" ic "light blue"
+222 "89" "circle" ic "light blue"
+223 "90" "circle" ic "light blue"
+224 "91" "circle" ic "light blue"
+225 "92" "circle" ic "light blue"
+226 "93" "circle" ic "light blue"
+227 "94" "circle" ic "light blue"
+*Edges
+134 1 2
+134 2 6
+134 4 7
+134 5 1
+134 6 6
+134 7 1
+134 8 2
+134 11 3
+134 12 1
+134 13 1
+134 20 10
+134 22 1
+134 23 1
+134 26 2
+134 30 1
+134 36 1
+134 37 1
+134 51 1
+134 57 1
+134 60 2
+134 63 1
+134 75 1
+134 76 3
+134 77 1
+134 80 2
+134 84 2
+134 85 1
+134 86 1
+134 87 1
+134 88 1
+134 89 1
+134 90 4
+134 91 1
+134 92 1
+134 93 1
+134 94 1
+135 1 1
+135 2 5
+135 3 2
+135 4 6
+135 5 1
+135 6 3
+135 7 2
+135 11 4
+135 12 3
+135 13 3
+135 15 1
+135 20 3
+135 27 1
+135 33 1
+135 36 2
+135 37 3
+135 38 1
+135 39 2
+135 40 2
+135 41 1
+135 43 2
+135 48 1
+135 51 2
+135 54 1
+135 84 2
+135 117 1
+135 120 1
+135 121 1
+135 123 1
+135 124 1
+135 128 1
+135 129 2
+135 130 1
+135 131 1
+135 133 1
+136 1 1
+136 2 3
+136 4 1
+136 82 1
+136 112 1
+137 2 1
+137 4 1
+138 2 5
+138 4 1
+138 5 2
+138 6 5
+138 11 1
+138 20 1
+138 23 1
+138 27 1
+138 54 1
+139 2 1
+140 2 2
+140 4 1
+141 2 1
+142 2 1
+143 1 1
+143 2 5
+143 4 2
+143 5 3
+143 6 4
+143 7 2
+143 11 1
+143 12 1
+143 13 1
+143 18 1
+143 19 1
+143 20 1
+143 27 1
+143 36 1
+143 37 1
+143 42 2
+143 48 1
+143 60 2
+143 85 1
+143 94 1
+143 112 2
+143 114 2
+143 115 1
+143 122 1
+143 123 1
+143 124 1
+143 125 1
+143 132 1
+144 1 1
+144 2 13
+144 4 9
+144 5 1
+144 6 2
+144 7 3
+144 8 1
+144 9 2
+144 10 1
+144 11 1
+144 12 4
+144 13 10
+144 14 2
+144 16 1
+144 18 1
+144 20 1
+144 27 1
+144 28 1
+144 36 1
+144 37 4
+144 43 3
+144 118 1
+144 122 1
+145 2 7
+145 3 1
+145 4 5
+145 5 1
+145 6 1
+145 7 2
+145 9 2
+145 11 1
+145 12 4
+145 13 10
+145 14 1
+145 15 1
+145 16 1
+145 17 1
+145 20 1
+145 36 1
+145 37 3
+145 40 1
+145 43 3
+145 48 1
+145 112 1
+145 116 2
+145 125 1
+146 2 1
+146 4 1
+146 13 1
+147 3 1
+147 12 1
+147 14 1
+147 15 1
+148 3 1
+148 12 1
+148 14 1
+148 15 1
+149 17 1
+150 2 3
+150 4 3
+150 6 3
+150 7 2
+150 8 1
+150 11 6
+150 20 6
+150 21 1
+150 22 1
+150 23 2
+150 24 5
+150 25 2
+150 26 2
+150 27 2
+150 28 7
+150 29 1
+150 30 1
+150 35 1
+150 51 1
+150 121 1
+151 2 1
+151 4 1
+151 7 1
+151 8 2
+151 11 6
+151 20 4
+151 21 1
+151 22 1
+151 23 1
+151 28 1
+151 30 1
+151 49 1
+151 52 1
+151 60 2
+151 64 2
+151 65 1
+151 66 2
+151 67 1
+151 68 1
+151 69 1
+151 70 2
+152 2 2
+152 4 2
+152 7 2
+152 8 2
+152 11 4
+152 13 1
+152 20 3
+152 21 1
+152 22 1
+152 29 1
+152 30 1
+152 44 2
+152 61 1
+152 62 1
+152 63 1
+153 1 6
+153 2 11
+153 4 7
+153 5 1
+153 6 8
+153 7 7
+153 9 1
+153 11 4
+153 12 6
+153 13 9
+153 15 1
+153 20 5
+153 27 1
+153 29 1
+153 31 1
+153 32 1
+153 33 3
+153 34 2
+153 35 1
+153 36 4
+153 37 7
+153 38 1
+153 39 1
+153 40 1
+153 41 1
+153 42 1
+153 43 6
+153 44 2
+153 45 2
+153 46 3
+153 47 1
+153 48 1
+153 51 2
+153 53 1
+153 75 2
+153 76 1
+153 77 1
+153 112 1
+153 120 1
+153 121 1
+153 123 1
+153 124 1
+154 1 1
+154 2 2
+154 4 1
+154 6 1
+154 7 2
+154 8 1
+154 11 3
+154 20 1
+154 27 1
+154 29 1
+154 35 1
+154 61 1
+154 62 1
+154 120 1
+155 2 1
+155 4 1
+155 20 1
+155 30 1
+156 2 1
+156 4 1
+156 11 2
+156 20 1
+156 30 1
+157 27 1
+157 35 1
+158 6 1
+159 2 1
+159 4 1
+159 6 4
+159 7 1
+159 12 3
+159 13 3
+159 15 1
+159 36 1
+159 37 1
+159 38 1
+159 39 1
+159 40 1
+159 90 1
+159 113 1
+160 2 1
+161 2 1
+162 20 1
+162 49 1
+162 50 1
+162 51 1
+162 52 1
+163 20 1
+164 2 1
+165 6 2
+166 11 1
+167 2 3
+167 4 4
+167 5 1
+167 9 2
+167 11 1
+167 16 2
+167 33 1
+167 54 1
+167 55 1
+167 56 1
+168 2 7
+168 4 9
+168 5 2
+168 9 3
+168 11 1
+168 16 2
+168 18 1
+168 22 1
+168 31 1
+168 54 1
+168 55 1
+168 56 1
+168 84 1
+168 102 3
+168 104 7
+168 105 2
+168 106 4
+168 107 3
+168 108 1
+168 127 1
+169 20 1
+169 23 1
+169 44 1
+169 57 1
+169 58 1
+170 2 1
+170 4 2
+170 7 4
+170 11 1
+170 13 3
+170 20 1
+170 23 4
+170 33 1
+170 44 4
+170 60 1
+170 63 1
+170 64 2
+170 84 7
+170 101 1
+170 102 1
+170 103 1
+170 112 1
+171 23 1
+172 59 1
+173 59 1
+174 59 1
+175 59 3
+176 4 1
+176 6 1
+176 8 7
+176 9 1
+176 21 2
+176 33 1
+176 48 2
+176 90 1
+176 94 1
+176 95 1
+176 96 1
+176 97 1
+176 98 1
+176 99 1
+176 100 1
+176 116 1
+177 1 1
+177 2 1
+177 4 1
+177 27 1
+177 64 2
+178 1 1
+178 2 1
+178 4 2
+178 6 1
+178 20 1
+178 27 1
+178 33 1
+178 44 1
+178 48 1
+178 112 1
+178 126 1
+179 2 1
+179 6 3
+179 13 1
+179 20 2
+179 33 1
+179 37 1
+179 48 2
+179 85 1
+179 112 1
+179 119 1
+180 18 1
+180 20 1
+180 71 1
+180 72 1
+180 73 1
+180 74 1
+181 1 1
+181 5 1
+181 6 1
+181 8 1
+181 20 1
+181 36 1
+181 66 1
+181 75 2
+181 76 2
+181 77 2
+181 78 1
+181 79 1
+181 80 1
+181 81 1
+181 82 1
+181 83 1
+182 5 1
+182 6 1
+182 20 2
+183 20 2
+184 20 2
+185 44 1
+186 2 1
+187 2 1
+188 2 1
+189 2 3
+189 20 2
+189 49 1
+189 82 1
+189 85 1
+189 109 1
+190 20 1
+190 49 1
+190 109 1
+191 2 1
+191 23 1
+191 44 1
+191 82 1
+192 84 2
+193 84 2
+194 2 1
+195 1 1
+195 2 1
+196 2 2
+196 4 2
+196 13 2
+196 110 1
+196 111 1
+197 2 1
+197 4 1
+197 110 1
+197 111 1
+198 2 1
+198 4 1
+198 110 1
+198 111 1
+199 112 4
+200 112 4
+201 112 4
+202 2 1
+202 82 1
+203 6 1
+204 6 1
+205 117 1
+206 2 1
+206 118 1
+207 5 1
+208 5 1
+209 44 1
+210 7 1
+210 12 1
+210 13 1
+210 36 1
+210 37 1
+211 6 1
+212 75 1
+213 2 2
+213 7 1
+213 13 3
+213 20 2
+213 94 2
+213 132 1
+214 8 1
+214 11 1
+214 44 1
+215 2 1
+216 2 1
+217 36 1
+218 7 1
+219 7 1
+220 7 1
+221 7 1
+222 116 2
+223 116 2
+224 7 1
+224 13 2
+225 6 1
+225 112 1
+226 3 1
+226 27 1
+226 51 1
+226 133 1
+227 64 1

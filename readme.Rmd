@@ -1,0 +1,76 @@
+---
+title: "Nanoparticles and dissolved organic matter: a network perspective reveals a decreasing diversity of the materials investigated -  **code description**"
+author: "Nicole Sani-Kast"
+date: "08/15/2016"
+output: html_document
+---
+
+
+
+## Aim
+
+The current R project contains the code and data that were used to execute the analysis of every section of the publications: <http://.>, including the analysis detailed in the Supporting Information.
+
+The aim of the analysis is to investigate the coordination among different experiments that study the effect of dissolved organic material on the fate of particulate matter in aquatic media. To this aim, the analysis quantifies the diversity of materials that were studied and the frequency of different material types in the experiments, using a network perspective.
+
+## Requirements
+
+### Platform
+The current R project was created in RStudio (v. 0.99.903), using R version 3.3.0, on a Linux machine (Ubuntu v. 14.04).
+
+### Required packages
+The following R packages are checked for installation (otherwise they are installed):
+
+- igraph - v. 1.0.1
+- ggplot2 - v. 2.1.0
+- ggrepel - v. 0.5
+- reshape2 - v. 1.4.1
+- bio3d - v. 2.2-4
+- SDMTools - v. 1.1-221
+- TeachingDemos - v. 2.10
+- xtable - v. 1.8-2
+- boot - v. 1.3-18
+- gplots - v. 3.0.1
+- nlme - v. 3.1-128
+- forecast - v. 7.1
+
+## What's in the project directory?
+
+- Administrative files
+
+    - .Rprofile - contains the call for the required libraries and the call for the function file: *networkAnalysisFunctions.R*
+    - All other files generated automatically and required for the RProject directory.
+    
+- Code files
+
+    - mainProjectCode.R - the main project code separated into the respective sections as in the publications. It generates the tables and plots that are presented in the main text and the supporting information.
+    - networkAnalysisFunctions.R - all functions required by mainProjectCode.R
+
+- Rdata objects and data files in csv format
+
+    - database.Rdata - an R object, which contains in the form of a dataframe all the information regarding the DOM and PM used in the experiemnts, experiment year and respective publications DOIs and titles. 
+    - allComb.Rdata - all possible DOM and PM combinations in a form of a dataframe.
+    - g.cit.Rdata - the citation network as a graph object.
+    - siData.Rdata - a dataframe used to create the abbreviation list for the supporing information.
+    - DOM_prop.Rdata - 
+    - DOM_identifier.Rdata - 
+    - low_diversity.csv - the combinations diversity between 1990 and 2015 for 10000 simulated low diversity networks (1000x26 matrix).
+    - high_diversity.csv - the combinations diversity between 1990 and 2015 for 10000 simulated high diversity networks (1000x26 matrix).
+    
+- Figures - all figures found in the publications and its supporting information are compiled to this directory as pdf files (recreated upon code execution).
+    
+## How to use the Project?
+
+- Clone the whole directory to your own computer. The directory is an R project directory, which means that once the projected is open in R this directory it is set to be the working one (all output will be saved to it).
+- Enter the directory and make sure you have writing and execution privileges in this directory.
+- Start R or Rstudio from the directory (.Rprofile is executed automatically, therefore if all required functions are now available in the local environment).
+- For a full execution source the file: *mainProjectCode.R*.
+Please note: Partial execution is not always possible as some variables are required in multiple sections, therefore it is required to execute the lines consecutively. For more details, open the file and follow the comments in the code. Most importantly: always execute the first line (*load.required.packages()*), which install (if needed) and load the required R packages.
+
+All figures are saved in the working directory, LaTex tables are printed to the console.
+
+## Support
+In case of a doubt or difficulty please contact Nicole (nicole.sani.kast@chem.ethz.ch). In order to recompile some of the given R objects additional files are required (for example in order to recreate the citation network), these files will be provided upon request.
+
+## License
+GNU General Public License v3.0.
